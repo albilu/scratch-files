@@ -10,7 +10,7 @@
 
 Netbeans Quick New File Creation
 
-`File -> New Scratch File`
+`File -> New Scratch File` or `Ctrl+Alt+N`
 
 ![demo.png](_resources/demo.png)
 
