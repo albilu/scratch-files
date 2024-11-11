@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: org.netbeans.scratchfiles
+OpenIDE-Module-Layer: org/netbeans/scratchfiles/layer.xml
+OpenIDE-Module-Name: Scratch Files
+OpenIDE-Module-Display-Category: Tools
+OpenIDE-Module-Localizing-Bundle: org/netbeans/scratchfiles/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0.0
+
+
