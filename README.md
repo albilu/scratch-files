@@ -11,6 +11,7 @@
 Netbeans Quick New File Creation
 
 `File -> New Scratch File`
+
 ![demo.png](_resources/demo.png)
 
 ### Installation

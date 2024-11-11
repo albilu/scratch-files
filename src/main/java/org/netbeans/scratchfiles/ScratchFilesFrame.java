@@ -143,7 +143,7 @@ public class ScratchFilesFrame extends JFrame {
                                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                                 .addComponent(tempCheckBox))
                             .addComponent(locationLabel)
-                            .addComponent(fileNameLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 171, javax.swing.GroupLayout.PREFERRED_SIZE))
+                            .addComponent(fileNameLabel, javax.swing.GroupLayout.PREFERRED_SIZE, 260, javax.swing.GroupLayout.PREFERRED_SIZE))
                         .addGap(0, 265, Short.MAX_VALUE))
                     .addComponent(locationTextField)
                     .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, scratchPanelLayout.createSequentialGroup()
