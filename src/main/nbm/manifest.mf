@@ -59,14 +59,6 @@ OpenIDE-Module-Long-Description: <html><h1>scratch-files</h1>
             <a href="https://github.com/albilu/scratch-files/pulls">PR</a> for
             issues in the backlog
         </li>
-        <li>
-            Starring it
-            <a href=""
-                ><img
-                    src="https://img.shields.io/github/stars/albilu/scratch-files"
-                    alt=""
-            /></a>
-        </li>
     </ul>
     <h3>Bugs</h3>
     <p>
