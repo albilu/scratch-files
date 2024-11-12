@@ -6,5 +6,71 @@ OpenIDE-Module-Name: Scratch Files
 OpenIDE-Module-Display-Category: Tools
 OpenIDE-Module-Localizing-Bundle: org/netbeans/scratchfiles/Bundle.properties
 OpenIDE-Module-Specification-Version: 1.0.0
-
-
+OpenIDE-Module-Long-Description: <html><h1>scratch-files</h1>
+    <h2>About scratch-files</h2>
+    <p>Netbeans Quick New File Creation</p>
+    <p><code>File -> New Scratch File</code> or <code>Ctrl+Alt+N</code></p>
+    <p>
+        <img
+            src="https://raw.githubusercontent.com/albilu/scratch-files/master/_resources/demo.png"
+            alt="demo.png"
+            width="700"
+            height="450"
+        />
+    </p>
+    <h3>Installation</h3>
+    <ul>
+        <li>
+            <p>
+                Install from Netbeans \
+                <code>Tools -> Plugins -> Available Plugins -> Install</code>
+            </p>
+            <ul>
+                <li>
+                    If Plugin not available, register the repository
+                    <code>Tools -> Plugins -> Settings -> Add</code>
+                    <a
+                        href="https://raw.githubusercontent.com/albilu/scratch-files/master/updates.xml"
+                        >https://raw.githubusercontent.com/albilu/scratch-files/master/updates.xml</a
+                    >
+                </li>
+            </ul>
+        </li>
+        <li>
+            <p>
+                Or Download the latest
+                <a href="https://github.com/albilu/scratch-files/releases"
+                    >release</a
+                >
+                and install in Netbeans: \
+                <code
+                    >Tools -> Plugins -> Downloaded -> Add Plugins ->
+                    Install</code
+                >
+            </p>
+        </li>
+    </ul>
+    <h3>Sponsor/Contribute/Support</h3>
+    <p>Support this project growth and maintenance by:</p>
+    <ul>
+        <li><a href="https://github.com/sponsors/albilu">Sponsoring it</a></li>
+        <li>
+            Submiting
+            <a href="https://github.com/albilu/scratch-files/pulls">PR</a> for
+            issues in the backlog
+        </li>
+        <li>
+            Starring it
+            <a href=""
+                ><img
+                    src="https://img.shields.io/github/stars/albilu/scratch-files"
+                    alt=""
+            /></a>
+        </li>
+    </ul>
+    <h3>Bugs</h3>
+    <p>
+        Please Report any issue at
+        <a href="https://github.com/albilu/scratch-files/issues">Issues</a>.
+    </p>
+    </html>
